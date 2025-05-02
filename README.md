@@ -5,7 +5,7 @@ Linux-IPC-Pipes
 # Ex03-Linux IPC - Pipes
 ## NAME:MOHANAPRABHA S
 ## REGISTER NO:212224040197
-## DATE:
+## DATE:2.5.25
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
@@ -100,6 +100,7 @@ void client(int wfd, int rfd) {
 ```
 ## OUTPUT
 
+![Screenshot from 2025-05-02 16-21-28](https://github.com/user-attachments/assets/fd76dab4-f391-44eb-a7b7-e2c0abb57740)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
